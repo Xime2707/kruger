@@ -1,4 +1,4 @@
-# kruger
+# Inventario del estado de vacunación de los empleados
 Proyecto del inventario de vacunas de los empleados
 Se realizó la aplicación con la base de datos PostgreSQL.
 Adjunto se encuentra el script Inventario.sql que contiene:
